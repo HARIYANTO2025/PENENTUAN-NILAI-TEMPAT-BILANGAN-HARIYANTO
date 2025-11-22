@@ -1,4 +1,4 @@
-# Program Penentuan Nilai Tempat Bilangan (Versi Alternatif)
+# Program Penentuan Nilai Tempat Bilangan hariyanto
 
 try:
     n = input("Masukkan angkanya: ").strip()
@@ -42,3 +42,4 @@ try:
 
 except ValueError:
     print("Terjadi kesalahan! Masukkan angka yang valid.")
+
